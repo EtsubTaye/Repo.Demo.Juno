@@ -1,4 +1,4 @@
 # Juno  
 
 
-Jnuo is an all new social midea made for Academia purpuses .
+Jnuo is an all new social media made for Academia purpuses .
